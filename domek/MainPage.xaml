@@ -36,10 +36,8 @@
         <Label Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3"
                Text="Opis" FontAttributes="Bold"/>
         <Label Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="3" TextColor="Gray"
-               Text="Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych"
+               Text="Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych."
                />
-
-
     </Grid>
 
 
